@@ -1,0 +1,32 @@
+body {
+  background-color: black;}
+
+.intro {
+  font-size:20px;
+  color: rgb(253, 253, 255);
+  text-align: center;
+  margin-top: 150px;
+
+}
+
+.name {
+  font-size: 50px;
+  color: rgba(18, 3, 228, 0.877);
+  text-align: center;
+  margin-top: 15px;
+}
+
+.obs {
+  font-size: 18px;
+  color: rgb(251, 254, 255);
+  text-align: center;
+  margin-top:10px;
+}
+ 
+.school{
+  font-size: 15px;
+  color: white;
+  text-align: center;
+  margin-top: 325px;
+}
+
